@@ -10,11 +10,6 @@ namespace Algorithms.Shell
     {
         static void Main(string[] args)
         {
-            //var builder = new WheelBundleBuilder();
-            //var wheenl = builder.AddFrames(10)
-            //    .AddTubes(20)
-            //    .Build();
-            //var count = wheenl.Calculate();
             var carBuilder = new CarBundleBuilder();
             carBuilder.AddEngine(25);
             carBuilder.AddMirrors(150);
