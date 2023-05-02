@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBZ8hgz42eX9MdPfvlHt2QK+BAHbNj+zBdmRCovTK1eLwk1i+zfr8ibBilhCzAiFjecIDKgQrsoUvWHIBorpFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Source\\Repos\\jbanoth\\CarBundle\\Algorithms.Shell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
