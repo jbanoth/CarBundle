@@ -18,7 +18,8 @@ namespace Algorithms.Shell
             carBuilder.AddFrames(25);
             carBuilder.AddBody(50);
             var cars = carBuilder.Build();
-            int value =  cars.Calculate();
+            int maxNumberOfCars =  cars.Calculate();
+            Console.WriteLine("The maximum number cars that can be bundled : " + maxNumberOfCars);
         }
     }
 }
